@@ -6,6 +6,6 @@ The primary stakeholders are poeple who really enjoy makeup and have a large col
 
 ## Links
 
-[Live App](https://repl.it)
+[Live App](https://repl.it/@KrystalNolasco/Makeup-Stash)
 
 [Project Board](../../projects/1)
