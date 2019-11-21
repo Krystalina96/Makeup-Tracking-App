@@ -1,4 +1,4 @@
-# Makeup Tracking App
+# Makeup Stash App
 
 For the makeup enthusiast who wants to keep track of their makeup stash, this makeup tracking app allows the user to track and sort their inventory as well as different looks they create with their products.
 
