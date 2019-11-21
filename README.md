@@ -8,4 +8,4 @@ The primary stakeholders are poeple who really enjoy makeup and have a large col
 
 [Live App](https://repl.it/@KrystalNolasco/Makeup-Stash)
 
-[Project Board](../../projects/1)
+[Project Board](https://github.com/Krystalina96/Makeup-Tracking-App/projects/1)
